@@ -2,8 +2,7 @@
 
 
 //ini salah
-
-$coba = 'Itu';
+$coba = 'Itu ini loh';
 
 
 echo $coba;
