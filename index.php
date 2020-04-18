@@ -1,5 +1,11 @@
 <?php
 
-echo 'coba';
+
+//ini salah
+
+$coba = 'Itu';
+
+
+echo $coba;
 
 ?>
